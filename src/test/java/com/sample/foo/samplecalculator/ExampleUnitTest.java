@@ -19,9 +19,3 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(6, 3 + 3);
     }
-    
-    @Test
-    public void addition_isCorrect() throws Exception {
-        assertEquals(8, 4 + 4);
-    }
-}
