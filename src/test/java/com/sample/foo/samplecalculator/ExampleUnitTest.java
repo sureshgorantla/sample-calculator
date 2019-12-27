@@ -1,3 +1,4 @@
+
 package com.sample.foo.samplecalculator;
 
 import org.junit.Test;
@@ -24,4 +25,3 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(10, 5 + 5);
     }
-}
